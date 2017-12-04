@@ -53,11 +53,11 @@ All the content will appear right below the original info at top right.
 
 ## 5StarOneKey
 
-![5StarOneKey](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/resources/5StarOneKey.png)
+![5StarOneKey](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/resources/5StarOneKey.png)
 
 ### Installation
 
-Click [Here](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/OPRNotification.user.js) to install.
+Click [Here](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js) to install.
 
 ### Usage
 
@@ -73,13 +73,13 @@ Change the numbers below, and append it to the list in the user.js.
 
 ## OPRNotification
 
-![OPRNotification1](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/resources/OPRNotification1.jpg)
+![OPRNotification1](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/resources/OPRNotification1.jpg)
 
-![OPRNotification1](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/resources/OPRNotification2.jpg)
+![OPRNotification1](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/resources/OPRNotification2.jpg)
 
 ### Installation
 
-Click [Here](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/OPRNotification.user.js) to install.
+Click [Here](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/OPRNotification.user.js) to install.
 
 ### Usage
 
@@ -89,7 +89,7 @@ This script runs every 20-60 second randomly, please leave your browser at opr.i
 
 ## MakeOPRGreatAgain
 
-![MakeOPRGreatAgain](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/resources/MakeOPRGreatAgain.png)
+![MakeOPRGreatAgain](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/resources/MakeOPRGreatAgain.png)
 
 ### 安装
 
@@ -97,10 +97,10 @@ This script runs every 20-60 second randomly, please leave your browser at opr.i
 
 #### Chrome
 
-建议安装[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)插件,插件安装完成后,点击[下载](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/MakeOPRGreateAgain.user.js),然后按提示操作即可.
+建议安装[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)插件,插件安装完成后,点击[下载](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/MakeOPRGreateAgain.user.js),然后按提示操作即可.
 
 #### Firefox
-安装[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)插件.点击[下载](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/MakeOPRGreateAgain.user.js),然后在出现的会话框中点击``安装``
+安装[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)插件.点击[下载](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/MakeOPRGreateAgain.user.js),然后在出现的会话框中点击``安装``
 
 #### 其它浏览器
 
@@ -123,13 +123,13 @@ This script runs every 20-60 second randomly, please leave your browser at opr.i
 
 ## 5StarOneKey
 
-![5StarOneKey](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/resources/5StarOneKey.png)
+![5StarOneKey](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/resources/5StarOneKey.png)
 
 已经更新到自定义打分版本，名字已经出现偏差啦，但是叫着顺口懒得改了
 
 ### 安装
 
-点击[这里](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/OPRNotification.user.js)安装
+点击[这里](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js)安装
 
 ### 使用
 
@@ -151,13 +151,13 @@ This script runs every 20-60 second randomly, please leave your browser at opr.i
 
 ## OPRNotification
 
-![OPRNotification1](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/resources/OPRNotification1.jpg)
+![OPRNotification1](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/resources/OPRNotification1.jpg)
 
-![OPRNotification1](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/resources/OPRNotification2.jpg)
+![OPRNotification1](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/resources/OPRNotification2.jpg)
 
 ### 安装
 
-直接[点此](https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/OPRNotification.user.js)安装即可
+直接[点此](https://github.com/xifanu/MakeOPRGreatAgain/raw/master/OPRNotification.user.js)安装即可
 
 ### 使用
 
