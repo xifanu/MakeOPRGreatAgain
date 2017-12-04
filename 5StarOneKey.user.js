@@ -12,12 +12,12 @@
 
 var buttons = [
 	{button:"Five Star", total:5, name:5, history:5, unique:5, location:5, safety:5},
-	{button:"553355", total:5, name:5, history:3, unique:3, location:5, safety:5},
-        {button:"551155", total:5, name:5, history:1, unique:1, location:5, safety:5},
-        {button:"552255", total:5, name:5, history:2, unique:2, location:5, safety:5},
-        {button:"552155", total:5, name:5, history:2, unique:1, location:5, safety:5},
+	{button:"551155", total:5, name:5, history:1, unique:1, location:5, safety:5},
         {button:"551255", total:5, name:5, history:1, unique:2, location:5, safety:5},
-	{button:"551355", total:5, name:5, history:1, unique:3, location:5, safety:5},
+        {button:"552155", total:5, name:5, history:2, unique:1, location:5, safety:5},
+        {button:"552255", total:5, name:5, history:2, unique:2, location:5, safety:5},
+        {button:"553355", total:5, name:5, history:3, unique:3, location:5, safety:5},
+	{button:"451155", total:4, name:5, history:1, unique:1, location:5, safety:5},
 ];
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
