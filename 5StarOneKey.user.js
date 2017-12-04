@@ -37,13 +37,14 @@ function rate_portal(total, name, history, unique, location, safety) {
 
 function add_button() {
     var button_region = document.getElementById("submitDiv");
+    var button_subm = document.getElementsByClassName("button big-submit-button");
     var i = 0;
     buttons.forEach(function(button_data) {
-        ++i;
        if (i%4==0) {
            var br = document.createElement("br");
            button_region.appendChild(br);
        }
+        i++;
         var button = document.createElement("button");
         var textnode = document.createTextNode(button_data["button"]);
         button.className = "button big-submit-button";
@@ -51,6 +52,7 @@ function add_button() {
         button_region.appendChild(button);
         button.onclick = function(){rate_portal(button_data["total"], button_data["name"], button_data["history"], button_data["unique"], button_data["location"], button_data["safety"]);};
     });
+    button_region.appendChild(button_subm[0]);
 }
 
 
