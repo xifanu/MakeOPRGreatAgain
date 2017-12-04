@@ -4,7 +4,7 @@
 // @description  Give five star with single click
 // @updateURL    https://github.com/xifanu/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js
 // @downloadURL  https://github.com/xifanu/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js
-// @author       jqqqqqqqqqq (modify by xifanu)
+// @author       jqqqqqqqqqq(modify by xifanu)
 // @match        https://opr.ingress.com/recon
 // @grant        none
 // ==/UserScript==
