@@ -2,9 +2,9 @@
 // @name         5 Star One Key
 // @version      0.25.1
 // @description  Give five star with single click
-// @updateURL    https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js
-// @downloadURL  https://github.com/jqqqqqqqqqq/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js
-// @author       jqqqqqqqqqq
+// @updateURL    https://github.com/xifanu/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js
+// @downloadURL  https://github.com/xifanu/MakeOPRGreatAgain/raw/master/5StarOneKey.user.js
+// @author       jqqqqqqqqqq (modify by xifanu)
 // @match        https://opr.ingress.com/recon
 // @grant        none
 // ==/UserScript==
